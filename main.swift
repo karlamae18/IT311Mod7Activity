@@ -1,4 +1,5 @@
 //kunwariaaa
+//WORKWORKOWROK
 import Foundation
 
 var loop = true //Used for the looping and termination of the program.
